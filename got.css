@@ -1,0 +1,19 @@
+* {
+  background-color: pink;
+
+}
+
+body {
+  border: 5px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+#img1 {
+  content: url("https://www.iizcat.com/uploads/2016/04/qjhyo-got1.jpg");
+  height: 372px;
+  width: 625px;
+  float: right;
+}
